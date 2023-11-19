@@ -1,3 +1,4 @@
+https://github.com/Tahmid1999/TradeNut/assets/31489330/71a22d38-104e-4628-a7e0-8852a0486f2e
 # Application Features
 
 Hey there! 👋 I wanted to give you a rundown of the awesome features our app brings to the table. Let's dive in!
